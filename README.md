@@ -145,40 +145,24 @@ An evolution of the original project, experimenting with a four-sided game board
 
 ---
 
-## 📊 GitHub
-
-<p align="center">
-  <img
-    src="https://www.gitskins.com/api/section/stats?username=cruibmend&theme=neon&style=aura"
-    alt="Carlos Ruibal GitHub stats"
-    width="860"
-  />
-</p>
-
----
-
 ## 🌐 Let's connect
 
-<p align="center">
-
-  <a href="https://github.com/cruibmend">
-    <img
-      src="https://img.shields.io/badge/GitHub-@cruibmend-0D1117?style=for-the-badge&logo=github&logoColor=00E7FF"
-      alt="GitHub"
-      height="38"
-    />
-  </a>
-
-  &nbsp;&nbsp;
-
-  <a href="https://www.linkedin.com/in/carlos-ruibal-m%C3%A9ndez-a4524543b/">
-    <img
-      src="https://img.shields.io/badge/LinkedIn-Carlos%20Ruibal-0D1117?style=for-the-badge&logo=linkedin"
-      alt="LinkedIn"
-      height="38"
-    />
-  </a>
-
-</p>
-
+<table align="center">
+  <tr>
+    <td align="center" width="140">
+      <a href="https://github.com/cruibmend">
+        <img src="https://skillicons.dev/icons?i=github" height="48" alt="GitHub">
+        <br>
+        <sub><b>@cruibmend</b></sub>
+      </a>
+    </td>
+    <td align="center" width="140">
+      <a href="https://www.linkedin.com/in/carlos-ruibal-m%C3%A9ndez-a4524543b/">
+        <img src="https://skillicons.dev/icons?i=linkedin" height="48" alt="LinkedIn">
+        <br>
+        <sub><b>Carlos Ruibal</b></sub>
+      </a>
+    </td>
+  </tr>
+</table>
 </p>
