@@ -20,7 +20,6 @@
 var carlos = new Developer
 {
     Name = "Carlos Ruibal",
-    Pronouns = "he/him",
     Location = "Galicia, Spain",
     Role = "Full-Stack Web Developer",
     Company = "LEDMON Marketing & Multimedia",
@@ -168,14 +167,4 @@ An evolution of the original project, experimenting with a four-sided game board
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-</p>
-
----
-
-<p align="center">
-  <i>Code. Learn. Build. Improve.</i>
-</p>
-
-<p align="center">
-  <sub>Carlos Ruibal · Built with code, curiosity and probably too much debugging.</sub>
 </p>
