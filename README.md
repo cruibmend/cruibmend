@@ -194,14 +194,6 @@ An evolution of the original project, experimenting with a four-sided game board
 ## 🌐 Let's connect
 
 <p align="center">
-  <img
-    src="https://www.gitskins.com/api/section/social?username=cruibmend&theme=neon&style=aura"
-    alt="Carlos Ruibal social visual"
-    width="860"
-  />
-</p>
-
-<p align="center">
 
 <a href="https://github.com/cruibmend">
   <img
@@ -209,10 +201,6 @@ An evolution of the original project, experimenting with a four-sided game board
     alt="Carlos Ruibal social visual"
     width="860"
   />
-  <!--<img
-    src="https://img.shields.io/badge/GitHub-cruibmend-181717?style=for-the-badge&logo=github&logoColor=white"
-    alt="GitHub"
-  />-->
 </a>
 
 <a href="https://www.linkedin.com/in/carlos-ruibal-m%C3%A9ndez-a4524543b/">
