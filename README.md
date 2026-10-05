@@ -82,7 +82,7 @@ A four-player evolution of PongSimple with a four-sided board, simultaneous loca
 ## 📫 Contact
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/carlos-ruibal-m%C3%A9ndez-a4524543b/">
+  <a href="https://www.linkedin.com/in/carlosruibalmendez/">
     <img src="https://skillicons.dev/icons?i=linkedin" height="40" align="middle" alt="LinkedIn">
     &nbsp;<b>LinkedIn</b>
   </a>
