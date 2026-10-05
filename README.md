@@ -65,13 +65,6 @@ I like understanding how things work under the hood, whether that means debuggin
 
 ## 🎮 Selected work
 
-<!-- TODO: replace with a real web project (Laravel app, WordPress plugin, PrestaShop module…) -->
-### [Project name](https://github.com/cruibmend/PROJECT-NAME)
-
-Short description of what it does and what problem it solves.
-
-<sub>Laravel · MySQL · Blade</sub>
-
 ### [PongSimple](https://github.com/cruibmend/PongSimple)
 
 A recreation of the classic **Pong** game, built while studying software development. Focused on game logic, collision detection, player input and object-oriented design.
