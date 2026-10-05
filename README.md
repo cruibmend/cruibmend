@@ -1,13 +1,5 @@
 <div align="center">
 
-<p align="center">
-  <img
-    src="https://www.gitskins.com/api/section/hero?username=cruibmend&theme=neon&style=aura"
-    alt="Carlos Ruibal GitHub profile"
-    width="860"
-  />
-</p>
-
 <h1>Hey, I'm Carlos 👋</h1>
 
 <p>
@@ -96,18 +88,6 @@ I'm particularly interested in writing maintainable code, improving existing pro
 - 🔧 Maintain, debug and improve existing projects
 - 🧩 Solve problems across both front-end and back-end environments
 - 🧠 Continuously learn new technologies and development practices
-
----
-
-## 🛠 Technologies I work with
-
-| Area | Technologies |
-|---|---|
-| **Front-End** | HTML5 · CSS · SCSS · JavaScript · jQuery · Bootstrap · Blade |
-| **Back-End** | PHP · Laravel · C# · Java |
-| **Programming** | C# · C++ · Java · JavaScript · PHP |
-| **Databases** | SQL |
-| **Version Control** | Git · GitHub |
 
 ---
 
