@@ -34,9 +34,7 @@ var carlos = new Developer
         "Back-End Development",
         "Web Applications",
         "Software Development"
-    },
-
-    CurrentlyLearning = "Always something new"
+    }
 };
 ```
 
@@ -50,18 +48,6 @@ I'm particularly interested in writing maintainable code, improving existing pro
 - 🏢 Working at **LEDMON Marketing & Multimedia**
 - 💻 Focused on **Full-Stack Web Development**
 - 🧠 Always learning and improving my development workflow
-
----
-
-## ✨ At a glance
-
-<p align="center">
-  <img
-    src="https://www.gitskins.com/api/section/highlights?username=cruibmend&theme=neon&style=aura"
-    alt="Carlos Ruibal GitHub highlights"
-    width="860"
-  />
-</p>
 
 ---
 
@@ -195,19 +181,24 @@ An evolution of the original project, experimenting with a four-sided game board
 
 <p align="center">
 
-<a href="https://github.com/cruibmend">
-  <img
-    src="https://www.gitskins.com/api/section/social?username=cruibmend&theme=neon&style=aura"
-    alt="Carlos Ruibal social visual"
-    width="860"
-  />
-</a>
+  <a href="https://github.com/cruibmend">
+    <img
+      src="https://img.shields.io/badge/GitHub-@cruibmend-0D1117?style=for-the-badge&logo=github&logoColor=00E7FF"
+      alt="GitHub"
+      height="38"
+    />
+  </a>
 
-<a href="https://www.linkedin.com/in/carlos-ruibal-m%C3%A9ndez-a4524543b/">
-  <img
-    src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
-    alt="LinkedIn"
-  />
-</a>
+  &nbsp;&nbsp;
+
+  <a href="https://www.linkedin.com/in/carlos-ruibal-m%C3%A9ndez-a4524543b/">
+    <img
+      src="https://img.shields.io/badge/LinkedIn-Carlos%20Ruibal-0D1117?style=for-the-badge&logo=linkedin"
+      alt="LinkedIn"
+      height="38"
+    />
+  </a>
+
+</p>
 
 </p>
