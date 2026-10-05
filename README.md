@@ -3,7 +3,11 @@
 <h1>Hey, I'm Carlos 👋</h1>
 
 <p>
-  <b>Full-Stack Web Developer · Programmer · Problem Solver</b>
+  <b>Full-Stack Web Developer · Software Developer · Web Operations</b>
+</p>
+
+<p>
+  Web development, infrastructure and maintenance — and a genuine passion for programming in all its forms.
 </p>
 
 </div>
@@ -12,157 +16,79 @@
 
 ## 👨‍💻 About me
 
-```csharp
-var carlos = new Developer
-{
-    Name = "Carlos Ruibal",
-    Location = "Galicia, Spain",
-    Role = "Full-Stack Web Developer",
-    Company = "LEDMON Marketing & Multimedia",
-
-    Focus = new[]
-    {
-        "Front-End Development",
-        "Back-End Development",
-        "Web Applications",
-        "Software Development"
-    }
-};
+```php
+$carlos = new Developer(
+    name:      'Carlos Ruibal',
+    location:  'Galicia, Spain',
+    role:      'Full-Stack Web Developer',
+    company:   'LEDMON Marketing & Multimedia',
+    languages: ['Spanish (Native)', 'Galician (Native)', 'English (C1)'],
+    focus:     ['Laravel', 'WordPress', 'PrestaShop', 'Web Operations', 'Software Development'],
+);
 ```
 
-I'm a **Web Developer and Programmer** working across both front-end and back-end technologies.
+I build and maintain web applications, CMS sites and online stores — and I also take care of what surrounds them: **hosting, domains, DNS, email services and remote servers over SSH**.
 
-I enjoy building responsive interfaces, developing application logic, working with databases and understanding how things work under the hood.
+My day-to-day work is web-focused, but I enjoy **programming in general**: desktop applications, games, tooling, automation. I'm open to projects and opportunities beyond the web.
 
-I'm particularly interested in writing maintainable code, improving existing projects and turning ideas into real, functional software.
-
-- 📍 Based in **Galicia, Spain**
-- 🏢 Working at **LEDMON Marketing & Multimedia**
-- 💻 Focused on **Full-Stack Web Development**
-- 🧠 Always learning and improving my development workflow
+I like understanding how things work under the hood, whether that means debugging an application, fixing a misconfigured DNS record or getting a mail server to deliver properly. AI tools are part of my everyday workflow for debugging, refactoring and documentation.
 
 ---
 
 ## ⚡ Tech Stack
 
-### Languages
-
 <p>
-  <img src="https://skillicons.dev/icons?i=cs,cpp,php,js,java,html,css" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,js,html,css,scss,jquery,bootstrap,mysql,wordpress,cs,git,github,vscode" alt="PHP, Laravel, JavaScript, HTML, CSS, SCSS, jQuery, Bootstrap, MySQL, WordPress, C#, Git, GitHub, VS Code" />
 </p>
 
-`C#` · `C++` · `PHP` · `JavaScript` · `Java` · `HTML5` · `CSS`
-
-### Front-End
-
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,scss,js,jquery,bootstrap" />
-</p>
-
-`HTML5` · `CSS` · `SCSS` · `JavaScript` · `jQuery` · `Bootstrap` · `Blade`
-
-### Back-End
-
-<p>
-  <img src="https://skillicons.dev/icons?i=php,laravel,cs,java" />
-</p>
-
-`PHP` · `Laravel` · `C#` · `Java`
-
-### Databases & Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,git,github,vscode" />
-</p>
-
-`SQL` · `Git` · `GitHub`
+- **Back-End:** PHP · Laravel · Blade
+- **Front-End:** HTML5 · CSS · SCSS · JavaScript · jQuery · Bootstrap
+- **Software Development:** C# · Object-Oriented Programming · Game Development
+- **Databases:** SQL · MySQL
+- **CMS & E-commerce:** WordPress · PrestaShop
+- **Web Operations:** cPanel · SSH · DNS & nameservers · Domain management · Email configuration and support
+- **Providers:** Dinahosting · IONOS · GoDaddy
+- **Tools:** Git · GitHub · VS Code
 
 ---
 
 ## 🚀 What I do
 
-- 🌐 Build modern and responsive web applications
-- 🎨 Develop clean and functional user interfaces
-- ⚙️ Create back-end logic and server-side applications
-- 🗄️ Design and work with relational databases
-- 🔧 Maintain, debug and improve existing projects
-- 🧩 Solve problems across both front-end and back-end environments
-- 🧠 Continuously learn new technologies and development practices
+- 🌐 Build and maintain web applications with **Laravel**
+- 🧩 Develop, customize and maintain **WordPress** and **PrestaShop** sites
+- 🌍 Configure and troubleshoot **domains, DNS and nameservers**
+- 📧 Set up and support **email services** for businesses
+- 🔧 Debug and improve existing websites in production
+- 💡 Explore programming beyond the web through personal projects
 
 ---
 
 ## 🎮 Selected work
 
-<table>
+### [PongSimple](https://github.com/cruibmend/PongSimple)
 
-<tr>
-<td width="32%">
-<b>
-<a href="https://github.com/cruibmend/PongSimple">
-PongSimple
-</a>
-</b>
-</td>
+A recreation of the classic **Pong** game, built while studying software development. Focused on game logic, collision detection, player input and object-oriented design.
 
-<td>
-A recreation of the classic <b>Pong</b> game developed in C# as part of my software development studies.
+<sub>C# · Game Development · OOP</sub>
 
-<br/><br/>
+### [Pong4J](https://github.com/cruibmend/Pong4J)
 
-Focused on game logic, collision detection, player input and object-oriented programming.
-
-<br/><br/>
-
-<sub>C# · Game Development · Object-Oriented Programming</sub>
-</td>
-</tr>
-
-<tr>
-<td width="32%">
-<b>
-<a href="https://github.com/cruibmend/Pong4J">
-Pong4J
-</a>
-</b>
-</td>
-
-<td>
-A four-player variation of Pong designed around simultaneous local multiplayer.
-
-<br/><br/>
-
-An evolution of the original project, experimenting with a four-sided game board, multiple players, collision logic and real-time input handling.
-
-<br/><br/>
+A four-player evolution of PongSimple with a four-sided board, simultaneous local multiplayer and real-time input handling.
 
 <sub>C# · Local Multiplayer · Game Development</sub>
-</td>
-</tr>
-
-</table>
-
-> These are early projects from my software development studies. More projects are on the way.
 
 ---
 
-## 🌐 Let's connect
+## 📫 Contact
 
-<table align="center">
-  <tr>
-    <td align="center" width="140">
-      <a href="https://github.com/cruibmend">
-        <img src="https://skillicons.dev/icons?i=github" height="48" alt="GitHub">
-        <br>
-        <sub><b>@cruibmend</b></sub>
-      </a>
-    </td>
-    <td align="center" width="140">
-      <a href="https://www.linkedin.com/in/carlos-ruibal-m%C3%A9ndez-a4524543b/">
-        <img src="https://skillicons.dev/icons?i=linkedin" height="48" alt="LinkedIn">
-        <br>
-        <sub><b>Carlos Ruibal</b></sub>
-      </a>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <a href="https://www.linkedin.com/in/carlos-ruibal-m%C3%A9ndez-a4524543b/">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40" align="middle" alt="LinkedIn">
+    &nbsp;<b>LinkedIn</b>
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:carlos.ruibal.m@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="40" align="middle" alt="Email">
+    &nbsp;<b>Email</b>
+  </a>
 </p>
