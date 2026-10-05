@@ -38,7 +38,7 @@ var carlos = new Developer
 
 I'm a **Web Developer and Programmer** working across both front-end and back-end technologies.
 
-I enjoy building responsive interfaces, developing application logic, working with databases and understanding how things work under the hood.
+I enjoy building responsive interfaces, developing application logic, working with databases and understanding how things work.
 
 I'm particularly interested in writing maintainable code, improving existing projects and turning ideas into real, functional software.
 
@@ -143,13 +143,13 @@ An evolution of the original project, experimenting with a four-sided game board
 
 ---
 
-## 📊 GitHub
+<!--## 📊 GitHub
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=cruibmend&show_icons=true&hide_border=true&rank_icon=github" alt="Carlos Ruibal GitHub stats" />
 </p>
 
----
+--->
 
 ## 🌐 Let's connect
 
