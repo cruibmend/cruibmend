@@ -14,10 +14,6 @@
   <b>Full-Stack Web Developer · Programmer · Problem Solver</b>
 </p>
 
-<p>
-  I build web applications from the interface to the server side, with a focus on clean code, maintainability and creating things that actually work.
-</p>
-
 </div>
 
 ---
@@ -28,7 +24,6 @@
 var carlos = new Developer
 {
     Name = "Carlos Ruibal",
-    Pronouns = "he/him",
     Location = "Galicia, Spain",
     Role = "Full-Stack Web Developer",
     Company = "LEDMON Marketing & Multimedia",
@@ -210,28 +205,21 @@ An evolution of the original project, experimenting with a four-sided game board
 
 <a href="https://github.com/cruibmend">
   <img
+    src="https://www.gitskins.com/api/section/social?username=cruibmend&theme=neon&style=aura"
+    alt="Carlos Ruibal social visual"
+    width="860"
+  />
+  <!--<img
     src="https://img.shields.io/badge/GitHub-cruibmend-181717?style=for-the-badge&logo=github&logoColor=white"
     alt="GitHub"
-  />
+  />-->
 </a>
 
-<a href="TU_URL_DE_LINKEDIN">
+<a href="https://www.linkedin.com/in/carlos-ruibal-m%C3%A9ndez-a4524543b/">
   <img
     src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
     alt="LinkedIn"
   />
 </a>
 
-</p>
-
----
-
-<p align="center">
-  <i>Code. Learn. Build. Improve.</i>
-</p>
-
-<p align="center">
-  <sub>
-    Carlos Ruibal · Built with code, curiosity and probably too much debugging.
-  </sub>
 </p>
