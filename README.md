@@ -31,7 +31,7 @@ var carlos = new Developer
 
 I work across both **front-end and back-end development**, building responsive interfaces, application logic, databases and complete web solutions.
 
-I enjoy understanding how things work under the hood, improving existing code and turning ideas into real projects.
+I enjoy understanding how things work under the hood, improving existing code and turning ideas into real solutions.
 
 ---
 
@@ -91,56 +91,19 @@ I enjoy understanding how things work under the hood, improving existing code an
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&rank_icon=github" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=cruibmend&show_icons=true&hide_border=true&rank_icon=github" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cruibmend&layout=compact&hide_border=true" />
 </p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&hide_border=true" />
-</p>
-
----
-
-## 📌 Featured Projects
-
-### 🚀 Project Name
-Short description of one of your best projects.
-
-**Built with:** `Laravel` `PHP` `Blade` `JavaScript` `SQL`
-
-[View repository →](#)
-
----
-
-### 💻 Project Name
-A short explanation of what the project does and what makes it interesting.
-
-**Built with:** `C#` `SQL`
-
-[View repository →](#)
-
----
-
-### 🌐 Project Name
-Another project worth highlighting on your profile.
-
-**Built with:** `HTML5` `SCSS` `JavaScript` `Bootstrap`
-
-[View repository →](#)
 
 ---
 
 ## 🌐 Connect with me
 
 <p align="left">
-  <a href="YOUR_LINKEDIN_URL">
+  <a href="https://www.linkedin.com/in/carlos-ruibal-m%C3%A9ndez-a4524543b/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:YOUR_EMAIL">
+  <a href="carlos.ruibal.m@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
