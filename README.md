@@ -23,7 +23,7 @@ $carlos = new Developer(
     role:      'Full-Stack Web Developer',
     company:   'LEDMON Marketing & Multimedia',
     languages: ['Spanish (Native)', 'Galician (Native)', 'English (C1)'],
-    focus:     ['Laravel', 'WordPress', 'PrestaShop', 'Web Operations', 'Software Development'],
+    focus:     ['Laravel', 'Next.js', 'WordPress', 'PrestaShop', 'Web Operations', 'Software Development'],
 );
 ```
 
@@ -38,11 +38,11 @@ I like understanding how things work under the hood, whether that means debuggin
 ## ⚡ Tech Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=php,laravel,js,html,css,scss,jquery,bootstrap,mysql,wordpress,cs,git,github,vscode" alt="PHP, Laravel, JavaScript, HTML, CSS, SCSS, jQuery, Bootstrap, MySQL, WordPress, C#, Git, GitHub, VS Code" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,react,nextjs,ts,js,html,css,scss,jquery,bootstrap,mysql,wordpress,cs,git,github,vscode" alt="PHP, Laravel, React, Next.js, TypeScript, JavaScript, HTML, CSS, SCSS, jQuery, Bootstrap, MySQL, WordPress, C#, Git, GitHub, VS Code" />
 </p>
 
 - **Back-End:** PHP · Laravel · Blade
-- **Front-End:** HTML5 · CSS · SCSS · JavaScript · jQuery · Bootstrap
+- **Front-End:** React · Next.js · TypeScript · JavaScript · HTML5 · CSS · SCSS · jQuery · Bootstrap
 - **Software Development:** C# · Object-Oriented Programming · Game Development
 - **Databases:** SQL · MySQL
 - **CMS & E-commerce:** WordPress · PrestaShop
@@ -54,7 +54,7 @@ I like understanding how things work under the hood, whether that means debuggin
 
 ## 🚀 What I do
 
-- 🌐 Build and maintain web applications with **Laravel**
+- 🌐 Build and maintain web applications with **Laravel** and **Next.js**
 - 🧩 Develop, customize and maintain **WordPress** and **PrestaShop** sites
 - 🌍 Configure and troubleshoot **domains, DNS and nameservers**
 - 📧 Set up and support **email services** for businesses
@@ -64,6 +64,13 @@ I like understanding how things work under the hood, whether that means debuggin
 ---
 
 ## 🎮 Selected work
+
+<!-- TODO: replace with a real web project (Laravel app, WordPress plugin, PrestaShop module…) -->
+### [Project name](https://github.com/cruibmend/PROJECT-NAME)
+
+Short description of what it does and what problem it solves.
+
+<sub>Laravel · MySQL · Blade</sub>
 
 ### [PongSimple](https://github.com/cruibmend/PongSimple)
 
