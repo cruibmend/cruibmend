@@ -10,10 +10,6 @@
   <b>Full-Stack Web Developer · Programmer · Problem Solver</b>
 </p>
 
-<p>
-  I build web applications from the interface to the server side, with a focus on clean code, maintainability and creating things that actually work.
-</p>
-
 </div>
 
 ---
@@ -168,13 +164,9 @@ An evolution of the original project, experimenting with a four-sided game board
   <img src="https://img.shields.io/badge/GitHub-cruibmend-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-<!--
-Cuando quieras añadir LinkedIn, sustituye YOUR_LINKEDIN_URL:
-
-<a href="YOUR_LINKEDIN_URL">
+<a href="https://www.linkedin.com/in/carlos-ruibal-m%C3%A9ndez-a4524543b/">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
--->
 
 </p>
 
