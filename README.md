@@ -1,115 +1,44 @@
-<h1 align="center">Hey, I'm Carlos 👋</h1>
+## Selected work
+
+<div align="center">
 
 <p align="center">
-  <strong>Full-Stack Web Developer · Programmer · Problem Solver</strong>
+  <img src="https://www.gitskins.com/api/section/hero?username=cruibmend&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F145159089%3Fu%3D4d4efadb0c2eccd2ae0b146153bfd08451f7415e%26v%3D4" alt="cruibmend hero visual" />
 </p>
+
+<h1>Carlos Ruibal</h1>
+<p><b>Freelance developer or consultant</b></p>
+
+</div>
+
+## The idea behind the work
+
+> Web Developer and Programmer in front-end and back-end technologies. C#, C++, PHP, Laravel, Blade, JavaScript, HTML5, CSS, SCSS, Java, JQuery, SQL and Bootstrap
+
+- 📍 Based in **Galicia, España**
+- 🏢 Working at **LEDMON Marketing &amp; Multimedia**
+- 👥 **1** followers · **1** following
+
+*Small, useful work over vague claims.*
+
+## Case studies
+
+<table>
+<tr><td width="32%"><b><a href="https://github.com/cruibmend/cruibmend">cruibmend</a></b></td><td>A selected project from this GitHub profile.<br/><sub>open source · 0 stars</sub></td></tr>
+<tr><td width="32%"><b><a href="https://github.com/cruibmend/PongSimple">PongSimple</a></b></td><td>A selected project from this GitHub profile.<br/><sub>C# · 0 stars</sub></td></tr>
+<tr><td width="32%"><b><a href="https://github.com/cruibmend/Pong4J">Pong4J</a></b></td><td>A selected project from this GitHub profile.<br/><sub>C# · 0 stars</sub></td></tr>
+</table>
+
+## Creative toolkit
+
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white) `ShaderLab` `HLSL`
+
+## Make something memorable
 
 <p align="center">
-  I build web applications from the interface to the server side, with a focus on clean code, maintainability and creating things that actually work.
+  <img src="https://www.gitskins.com/api/section/social?username=cruibmend&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F145159089%3Fu%3D4d4efadb0c2eccd2ae0b146153bfd08451f7415e%26v%3D4" alt="cruibmend social visual" />
 </p>
 
----
+<a href="https://github.com/cruibmend">GitHub</a>
 
-## 👨‍💻 About me
-
-```csharp
-var carlos = new Developer
-{
-    Name = "Carlos",
-    Pronouns = "he/him",
-    Role = "Full-Stack Web Developer",
-    Focus = new[]
-    {
-        "Front-End Development",
-        "Back-End Development",
-        "Web Applications",
-        "Software Development"
-    },
-    CurrentlyLearning = "Always something new"
-};
-```
-
-I work across both **front-end and back-end development**, building responsive interfaces, application logic, databases and complete web solutions.
-
-I enjoy understanding how things work under the hood, improving existing code and turning ideas into real solutions.
-
----
-
-## ⚡ Tech Stack
-
-### Languages
-
-<p>
-  <img src="https://skillicons.dev/icons?i=cs,cpp,php,js,java,html,css" />
-</p>
-
-### Front-End
-
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,scss,js,jquery,bootstrap" />
-</p>
-
-### Back-End
-
-<p>
-  <img src="https://skillicons.dev/icons?i=php,laravel,cs,java" />
-</p>
-
-### Databases & Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,git,github,vscode" />
-</p>
-
-`Blade` · `SQL`
-
----
-
-## 🚀 What I do
-
-- 🌐 Build modern and responsive web applications
-- 🎨 Develop clean and functional user interfaces
-- ⚙️ Create back-end logic and server-side applications
-- 🗄️ Design and work with relational databases
-- 🔧 Maintain, debug and improve existing projects
-- 🧠 Learn new technologies and improve my development workflow
-
----
-
-## 🛠 Technologies I work with
-
-| Area | Technologies |
-|---|---|
-| **Front-End** | HTML5 · CSS · SCSS · JavaScript · jQuery · Bootstrap · Blade |
-| **Back-End** | PHP · Laravel · C# · Java |
-| **Programming** | C# · C++ · Java · JavaScript · PHP |
-| **Databases** | SQL |
-| **Version Control** | Git · GitHub |
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=cruibmend&show_icons=true&hide_border=true&rank_icon=github" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cruibmend&layout=compact&hide_border=true" />
-</p>
-
----
-
-## 🌐 Connect with me
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/carlos-ruibal-m%C3%A9ndez-a4524543b/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="carlos.ruibal.m@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
-
----
-
-<p align="center">
-  <i>Code. Learn. Build. Improve.</i>
-</p>
+<p align="center"><sub>Carlos Ruibal · Creative portfolio generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
